@@ -1,2 +1,2 @@
 # adrienneshum.github.io
-Portfolio
+My buggy portfolio
